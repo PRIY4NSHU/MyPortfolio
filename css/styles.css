@@ -53,6 +53,10 @@ a {
 a:hover {
     color: #eaf6f6;
 }
+.project-title:hover{
+    cursor: pointer!important ;
+    color: blue;
+}
 .skill-row {
     width: 70%;
     margin: 50px auto 50px auto;
